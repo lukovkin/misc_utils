@@ -1,2 +1,2 @@
 # misc_utils
-Miscellaneous utils
+Miscellaneous functions mainly for time series processing
